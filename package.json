@@ -8,5 +8,6 @@
   },
   "keywords": ["ascii", "banner", "emoji", "cli", "npm"],
   "author": "DeveloperPuneet",
-  "license": "MIT"
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/DeveloperPuneet"
 }
