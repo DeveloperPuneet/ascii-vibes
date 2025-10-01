@@ -1,6 +1,6 @@
 {
   "name": "ascii-vibes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dep ASCII & Emoji banner generator — custom 5x5 font, CLI + API",
   "main": "index.js",
   "bin": {
