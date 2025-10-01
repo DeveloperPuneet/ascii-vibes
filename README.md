@@ -3,6 +3,15 @@
 > Zero-dependency ASCII & Emoji banner generator built from scratch.  
 > Create stylish console banners in pure JavaScript — no chalk, no figlet, no nonsense.  
 
+![npm](https://img.shields.io/npm/dt/ascii-vibes)
+![Package size](https://img.shields.io/bundlephobia/minzip/ascii-vibes)
+![Node version](https://img.shields.io/node/v/ascii-vibes)  
+![GitHub stars](https://img.shields.io/github/stars/DeveloperPuneet/ascii-vibes)
+![GitHub issues](https://img.shields.io/github/issues/DeveloperPuneet/ascii-vibes)
+![GitHub forks](https://img.shields.io/github/forks/DeveloperPuneet/ascii-vibes)
+
+![npm bundle size](https://img.shields.io/bundlephobia/min/ascii-vibes)
+![Popularity](https://img.shields.io/npm/dt/ascii-vibes)
 ---
 
 ## 🚀 Features
